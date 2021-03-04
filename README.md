@@ -58,15 +58,15 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 
 ## License
 ## Run a code 
-1-download composer
-2-download laravel version 7
-3-install npm and run npm 
-4-download Visual code
-5-download xampp 
-6-connect database create new database in myadmin
-7- connect database in file .env
-8-in terminal ( php artisan  migrate )
-9- php artisan serve
+- **1-download composer**
+- **2-download laravel version 7 **
+- **3-install npm and run npm **
+- **4-download Visual code **
+- **5-download xampp **
+- **6-connect database create new database in myadmin **
+- **7- connect database in file .env  **
+- **8-in terminal ( php artisan  migrate ) **
+- **9- php artisan serve **
 
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
