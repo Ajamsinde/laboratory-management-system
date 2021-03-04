@@ -58,8 +58,8 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 
 ## License
 ## Run a code 
- -**download composer**
--**download laravel version 7 **
+-**(download composer)**
+-**(download laravel version 7 )**
 -**install npm and run npm **
 -**download Visual code **
 -**download xampp **
